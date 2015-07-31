@@ -1,0 +1,10 @@
+name 'sagreen-ntp'
+version '0.1.0'
+source 'git://github.com/sagreen/puppet-module-ntp.git'
+author 'sagreen'
+license 'Apache 2.0'
+summary 'put a summary here'
+description 'put a description here'
+project_page 'https://github.com/sagreen/puppet-module-ntp'
+
+dependency 'puppetlabs/stdlib', '>= 4.6.0'
